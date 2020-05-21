@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Problems/The army of units/out/
+/Problems/The army of units/out/production/classes/
+/Problems/The information about a person/out/
+/Problems/The information about a person/out/production/classes/
+/Problems/The largest element/out/
+/Problems/The largest element/out/production/classes/
+/Problems/The last digit of a number/out/
+/Problems/The last digit of a number/out/production/classes/
+/Problems/The max of two numbers without else-branch/out/
+/Problems/The max of two numbers without else-branch/out/production/classes/
+/Problems/val or var/out/
+/Problems/val or var/out/production/classes/
+/Problems/Very Big Number/out/
+/Problems/Very Big Number/out/production/classes/
+/Problems/Volume of a cube/out/
+/Problems/Volume of a cube/out/production/classes/
+/Problems/Weather comparison/out/
+/Problems/Weather comparison/out/production/classes/
+/Problems/Within a range/out/
+/Problems/Within a range/out/production/classes/
+/Problems/Within both ranges/out/
+/Problems/Within both ranges/out/production/classes/
